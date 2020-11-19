@@ -2,4 +2,5 @@
 	path = Dev-CashManager-Server
 	url = https://github.com/ReyLinn/Dev-CashManager-Server.git
 [submodule "Dev-CashManager-Kotlin"]
+	path = Dev-CashManager-Kotlin
 	url = https://github.com/ReyLinn/Dev-CashManager-Kotlin.git
