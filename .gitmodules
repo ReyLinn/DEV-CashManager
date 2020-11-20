@@ -7,3 +7,6 @@
 [submodule "DEV-CashManager-Server-Bootstrap"]
 	path = DEV-CashManager-Server-Bootstrap
 	url = https://github.com/ReyLinn/DEV-CashManager-Server-Bootstrap.git
+[submodule "DEV-CashManager-Kotlin-Bootstrap"]
+	path = DEV-CashManager-Kotlin-Bootstrap
+	url = https://github.com/ReyLinn/DEV-CashManager-Kotlin-Bootstrap.git
