@@ -4,3 +4,6 @@
 [submodule "Dev-CashManager-Android"]
 	path = Dev-CashManager-Android
 	url = https://github.com/ReyLinn/Dev-CashManager-Android.git
+[submodule "Dev-CashManager-Server"]
+	path = Dev-CashManager-Server
+	url = https://github.com/ReyLinn/Dev-CashManager-Server.git
